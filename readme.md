@@ -71,7 +71,6 @@ This AI is similar to the one we used in the Windows version of the [Tic Tac Toe
 
 
 
-
 #### Whats next ?
 
 How can this game be improved ? We can add an algorithm for the Bot's moves, so that the Bot can block the user from winning, this would involve scanning the board, knowing which tiles are already taken and by who, and what it takes to make a win.
